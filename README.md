@@ -1,14 +1,13 @@
 # Scanner de Arquivos e Credenciais Expostas | TAVARDT Brasil
 
 [![Verificador de Arquivos Expostos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/br/verificador-arquivos-expostos/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Brasil-00C853.svg)](https://ag.tavardt.com/br/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Scanner de superficie de ataque para deteccao automatizada de arquivos de ambiente, backups, repositorios git e credenciais expostas em servidores web.
 
-Desenvolvido e mantido pela divisao de seguranca ofensiva da **[TAVARDT Brasil](https://ag.tavardt.com/br/)**.
+Desenvolvido e mantido pela divisao de seguranca ofensiva da **TAVARDT Brasil**.
 
----
+***
 
 ## Escopo de Deteccao de Superficie
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de seguranca ofensiva da **[TAVARDT Brasil](
 * **Orquestracao e Infraestrutura**: Checagem de configuracoes em `docker-compose.yml` e vazamento de informacoes em `phpinfo.php`.
 * **Alinhamento Normativo**: Estruturado em conformidade com as diretrizes do Diretrizes de Seguranca da Informacao da ANPD e LGPD.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python scanner.py empresa.com.br
 Para gerar saida estruturada em JSON:
 
 ```bash
-python scanner.py empresa.com.br --json
+python scanner.py empresa.com.br -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para varreduras automatizadas e relatorios graficos avancados, acesse a ferramenta oficial:
 
-* **[Verificador de Arquivos Expostos](https://tools.tavardt.com/br/verificador-arquivos-expostos/)**
+* **Verificador de Arquivos Expostos**
 * **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
 
----
+***
 
 ## Consultoria em Seguranca Ofensiva
 
-Para testes de intrusao, gestao de vulnerabilidades e endurecimento de perimetro no Brasil, consulte os especialistas da **[TAVARDT Brasil](https://ag.tavardt.com/br/contato/)**.
+Para testes de intrusao, gestao de vulnerabilidades e endurecimento de perimetro no Brasil, consulte os especialistas da **TAVARDT Brasil**.
