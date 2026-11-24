@@ -5,7 +5,7 @@
 
 Scanner de superficie de ataque para deteccao automatizada de arquivos de ambiente, backups, repositorios git e credenciais expostas em servidores web.
 
-Desenvolvido e mantido pela divisao de seguranca ofensiva da **TAVARDT Brasil**.
+Desenvolvido e mantido pela divisao de seguranca ofensiva da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python scanner.py empresa.com.br -json
 Para varreduras automatizadas e relatorios graficos avancados, acesse a ferramenta oficial:
 
 * **Verificador de Arquivos Expostos**
-* **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
 
 ***
 
 ## Consultoria em Seguranca Ofensiva
 
-Para testes de intrusao, gestao de vulnerabilidades e endurecimento de perimetro no Brasil, consulte os especialistas da **TAVARDT Brasil**.
+Para testes de intrusao, gestao de vulnerabilidades e endurecimento de perimetro no Brasil, consulte os especialistas da **TAVARDT**.
 
 ***
 
