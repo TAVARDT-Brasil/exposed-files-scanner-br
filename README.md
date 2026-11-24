@@ -1,4 +1,4 @@
-# Scanner de Arquivos e Credenciais Expostas | TAVARDT Brasil
+# Scanner de Arquivos e Credenciais Expostas
 
 [![Verificador de Arquivos Expostos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/br/verificador-arquivos-expostos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para varreduras automatizadas e relatorios graficos avancados, acesse a ferramen
 ## Consultoria em Seguranca Ofensiva
 
 Para testes de intrusao, gestao de vulnerabilidades e endurecimento de perimetro no Brasil, consulte os especialistas da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
