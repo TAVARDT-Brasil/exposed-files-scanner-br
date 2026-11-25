@@ -1,8 +1,8 @@
 # Scanner de Arquivos e Credenciais Expostas
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador de Arquivos Expostos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/br/verificador-arquivos-expostos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Scanner de superficie de ataque para deteccao automatizada de arquivos de ambiente, backups, repositorios git e credenciais expostas em servidores web.
 
